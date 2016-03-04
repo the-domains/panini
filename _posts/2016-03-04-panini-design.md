@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T19:40:30.751Z'
-dateModified: '2016-03-04T19:33:59.433Z'
+datePublished: '2016-03-04T19:50:21.155Z'
+dateModified: '2016-03-04T19:40:37.736Z'
 title: PANINI DESIGN
 author: []
 sourcePath: _posts/2016-03-04-panini-design.md
