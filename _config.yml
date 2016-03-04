@@ -1,6 +1,6 @@
 name: panini
 favicon: null
-layout_spectrum: 0.24486
+layout_spectrum: 1
 typography_spectrum: 0.83937
 title: PANINI DESIGN
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#010101'
+    - '#fdfdfd'
+    - '#f3fd1e'
+    - '#a5a739'
+    - '#3b3b3b'
   brandStrength: 0
   lightness: 0.8141047714743763
   saturation: 0.35243300534784794
