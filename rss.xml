@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[PANINI DESIGN]]></title>
+        <description><![CDATA[PANINI DESIGN]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 04 Mar 2016 19:03:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[PANINI DESIGN]]></title>
+            <description><![CDATA[<article><h1>PANINI DESIGN</h1><p>Product Design & Collections</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e841322e0689a8f9399771addeadb9ab2cfede5.jpg"></article>]]></description>
+            <link>undefinedpanini-design/index.html</link>
+            <guid isPermaLink="false">7565be99-9396-4b3a-9070-44c98313250a</guid>
+            <pubDate>Fri, 04 Mar 2016 19:03:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
