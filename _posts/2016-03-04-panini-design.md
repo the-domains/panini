@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: 'Product design & collections: Apparel, gift, deco, living, housewares, home textiles, furniture.'
-datePublished: '2016-03-04T19:28:39.793Z'
-dateModified: '2016-03-04T19:28:17.615Z'
+description: ''
+datePublished: '2016-03-04T19:32:41.339Z'
+dateModified: '2016-03-04T19:31:56.948Z'
 title: PANINI DESIGN
 author: []
 sourcePath: _posts/2016-03-04-panini-design.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: panini-design/index.html
-_type: Article
+_type: Blurb
 
 ---
 ## Product design & collections: Apparel, gift, deco, living, housewares, furniture, home textiles.
