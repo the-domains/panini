@@ -1,0 +1,28 @@
+name: panini
+favicon: null
+layout_spectrum: 0.16220325022004545
+typography_spectrum: 0.14764531096443534
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9448270613793284
+  lightness: 0.8141047714743763
+  saturation: 0.35243300534784794
+  rhythmicContrast: 0.22152385115623474
+purpose: []
