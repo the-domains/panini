@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[PANINI DESIGN]]></title>
         <description><![CDATA[PANINI DESIGN]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/panini/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 19:03:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 19:28:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/panini/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[PANINI DESIGN]]></title>
-            <description><![CDATA[<article><h1>PANINI DESIGN</h1><p>Product Design & Collections</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e841322e0689a8f9399771addeadb9ab2cfede5.jpg"></article>]]></description>
-            <link>undefinedpanini-design/index.html</link>
+            <description><![CDATA[<article><h1>PANINI DESIGN</h1><p>Product design & collections: Apparel, gift, deco, living, housewares, home textiles, furniture.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e841322e0689a8f9399771addeadb9ab2cfede5.jpg"></article>]]></description>
+            <link>https://thegrid.ai/panini/panini-design/index.html</link>
             <guid isPermaLink="false">7565be99-9396-4b3a-9070-44c98313250a</guid>
-            <pubDate>Fri, 04 Mar 2016 19:03:03 GMT</pubDate>
+            <pubDate>Fri, 04 Mar 2016 19:28:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
